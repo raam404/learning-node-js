@@ -12,8 +12,8 @@ console.log(numbers[0])
 
 // objects
 const person = {
-    name: "golu",
-    age: 15
+    name: "vannagath",
+    age: 19
 }
 console.log("This is my brother " + person.name)
 console.log("He is " + person.age + " years old.")
