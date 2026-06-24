@@ -16,5 +16,5 @@ const person = {
     age: 15
 }
 console.log("This is my brother " + person.name)
-console.log(person.age)
+console.log("He is " + person.age + " years old.")
 console.log(person)
